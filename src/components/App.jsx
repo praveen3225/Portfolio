@@ -1,15 +1,15 @@
 import React from "react";
 import HomePage from "./HomePage";
 import Resume from "./Resume";
-import {BrowserRouter as Router,Routes,Route} from "react-router-dom";
+import {HashRouter as Router,Routes,Route} from "react-router-dom";
 
 function App()
 {
     return (
     <div>
-        <Router basename="/Portfolio">
+        <Router>
             <Routes>
-                <Route path="/Portfolio/#/resume" element={<Resume></Resume>}></Route>
+                <Route path="/resume" element={<Resume></Resume>}></Route>
                 <Route path="/" element={<HomePage></HomePage>}></Route>
             </Routes>
         </Router>

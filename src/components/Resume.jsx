@@ -9,7 +9,7 @@ function Resume()
 {
     return (
         <>
-            <Header modify="Home" link="/"></Header>
+            <Header modify="Home" link="#/"></Header>
             <Container style={{marginTop:"100px", backgroundColor:"transparent !important",height:"700px"}}>
                 <Row>
                     <Col lg="6">

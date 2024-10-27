@@ -11,7 +11,7 @@
       // Check if the path is for a known route, if not, redirect to home
       if (currentPath === '/Portfolio/resume' || currentPath === '/Portfolio/') {
         // Redirecting to index.html with a hash-based URL for React Router
-        window.location.href = window.location.origin + '/Portfolio/#' + currentPath;
+        window.location.href = window.location.origin + currentPath;
       } else {
         // Default redirect to home for unknown paths
         window.location.href = window.location.origin + '/Portfolio/#/';

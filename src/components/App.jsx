@@ -9,7 +9,7 @@ function App()
     <div>
         <Router basename="/Portfolio">
             <Routes>
-                <Route path="/resume" element={<Resume></Resume>}></Route>
+                <Route path="/Portfolio/#/resume" element={<Resume></Resume>}></Route>
                 <Route path="/" element={<HomePage></HomePage>}></Route>
             </Routes>
         </Router>

@@ -7,7 +7,7 @@ function App()
 {
     return (
     <div>
-        <Router>
+        <Router basename="/Portfolio">
             <Routes>
                 <Route path="/resume" element={<Resume></Resume>}></Route>
                 <Route path="/" element={<HomePage></HomePage>}></Route>

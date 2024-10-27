@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>404 - Page Not Found</title>
+    <script>
+      // Get the current path
+      const currentPath = window.location.pathname;
+
+      // Check if the path is for a known route, if not, redirect to home
+      if (currentPath === '/Portfolio/resume' || currentPath === '/Portfolio/') {
+        // Redirecting to index.html with a hash-based URL for React Router
+        window.location.href = window.location.origin + '/Portfolio/#' + currentPath;
+      } else {
+        // Default redirect to home for unknown paths
+        window.location.href = window.location.origin + '/Portfolio/#/';
+      }
+    </script>
+  </head>
+  <body>
+    <h1>Page Not Found</h1>
+    <p>The page you're looking for doesn't exist.</p>
+    <a href="/Portfolio/">Go to Home</a>
+  </body>
+</html>

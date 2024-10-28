@@ -9,8 +9,9 @@ function Resume()
 {
     return (
         <>
+        <div className="resumeContainer">
             <Header modify="Home" link="#/"></Header>
-            <Container style={{marginTop:"100px", backgroundColor:"transparent !important",height:"700px"}}>
+            <Container className="details"  style={{marginTop:"100px", backgroundColor:"transparent !important",height:"700px"}}>
                 <Row>
                     <Col lg="6">
                         <h1 className="resume-heading">My Resume</h1>
@@ -21,6 +22,7 @@ function Resume()
                 </Row>
             </Container>
             <Footer></Footer>
+        </div>
         </>
     );
 }

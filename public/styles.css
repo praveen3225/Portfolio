@@ -232,7 +232,7 @@ a, .projectslink , .linkedin{
 
 .container-grid {
     display: grid;
-    grid-template-columns: 4fr 1.2fr 1.3fr 4fr;
+    grid-template-columns: 4fr 1.5fr 1.5fr 4fr;
     grid-template-rows: 1fr 1fr 1fr;
     gap: 5px;
     width: 100%;
@@ -241,6 +241,17 @@ a, .projectslink , .linkedin{
     transform-origin: center;
     transition: transform 0.3s ease; /* Smooth transition for resizing */
   }
+
+.container-grid div {
+    position: relative; /* Ensure proper layout for img */
+    overflow: hidden;   /* Prevent overflow beyond the grid cell */
+}
+
+.container-grid img {
+    width: 100%;
+    height: 100%;
+    object-fit:fill/* Ensures the image covers the grid cell fully */
+}
   
   .img1 {
     grid-area: 1 / 1 / 4 / 2;

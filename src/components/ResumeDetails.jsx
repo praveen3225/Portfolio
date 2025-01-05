@@ -42,7 +42,7 @@ enhance user experience and accessibility.
         <ul>
           <li>Programming Languages - C++, Java, Python</li><br></br>
           <li>Libraries / Frameworks - JavaScript, React, Node.js, SpringBoot, Spring</li><br></br>
-          <li>Tools / Platforms - Git, jQuery, Bootstrap, VS Code, HTML, CSS</li><br></br>
+          <li>Tools / Platforms - Git, jQuery, Bootstrap, VS Code, HTML, CSS, Flutter</li><br></br>
           <li>Databases - SQL, PostgreSQL</li></ul>
         </Accordion.Body>
       </Accordion.Item>
@@ -52,9 +52,13 @@ enhance user experience and accessibility.
         <ul>
           <li>
           Intern Completion Certicate - </li> <a href="https://drive.google.com/file/d/1J-3fHeKQA2BK5kfJMARVcLDWlV6aIlRf/view?pli=1"><strong>BOSCH Global Software Technologies Private Limited</strong></a><br></br>
-          <li>The Complete 2024 Web Development Bootcamp by Angela Yu - </li><a href="https://drive.google.com/file/d/1Nz63kCj1pzXFKhvvYYSQGJfvy6U_U1en/view?usp=drive_link"><strong>Udemy</strong></a><br></br>
-          <li>Java Spring Framework 6 with SpringBoot 5 by Navin Reddy - </li><a href="https://drive.google.com/file/d/1yz34UDrLG_5de5oX7WZ1nRvgB2Og_log/view?usp=drive_link"><strong>Udemy</strong></a><br></br>
-          <li>Web Development Course Completion - </li><a href="https://drive.google.com/file/d/1ddj3rp-jnhCu-KBUPRA8fl29VNG31zaa/view?usp=drive_link"><strong>Teachnook</strong></a></ul>
+          <li>The Complete 2024 Web Development Bootcamp by Angela Yu - </li><a href="https://www.udemy.com/certificate/UC-28bf5531-1fce-4df0-9b03-4b2c40cdde0e/"><strong>Udemy</strong></a><br></br>
+          <li>Java Spring Framework 6 with SpringBoot 5 by Navin Reddy - </li><a href="https://www.udemy.com/certificate/UC-905428c5-3a3b-4d40-887b-3cf8aa21dd76/"><strong>Udemy</strong></a><br></br>
+          <li>Web Development Course Completion - </li><a href="https://drive.google.com/file/d/1ddj3rp-jnhCu-KBUPRA8fl29VNG31zaa/view?usp=drive_link"><strong>Teachnook</strong></a>
+          <li>Complete Data Science,Machine Learning,DL,NLP Bootcamp - </li><a href="https://www.udemy.com/certificate/UC-cb777fd1-5f6b-4c78-ab58-26feee99c64b/"><strong>Udemy</strong></a>
+          <li>Flutter & Dart - The Complete Guide [2024 Edition]- </li><a href="https://www.udemy.com/certificate/UC-ada07726-eeb0-48a3-8065-241560b07636/"><strong>Udemy</strong></a>
+          </ul>
+
         </Accordion.Body>
       </Accordion.Item>
     </Accordion>

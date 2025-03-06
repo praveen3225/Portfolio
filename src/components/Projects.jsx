@@ -18,8 +18,8 @@ function Projects()
             <Container>
                 <Row>
                     <Col className="d-flex pt-5 justify-content-center">
-                        <ProjectCard title="Authentication GUI"    content="A simple Login GUI developed for authentication purpose"
-                        link="https://github.com/praveen3225/Authentication" src="./loginGUI.png"></ProjectCard>
+                        <ProjectCard title="Job Portal"    content="A demo company's job site application featuring a landing page, job area, advanced job-info screen, and form section. This application allows users to apply for various jobs, access additional information regarding the jobs, and also store basic user information, who applies for the job."
+                        link="https://github.com/praveen3225/job_portal" src="./job_portal.png"></ProjectCard>
                     </Col>
                     <Col className="d-flex pt-5 justify-content-center">
                         <ProjectCard title="Weather app" content="A simple weather application which is used to fetch and display current weather details of almost every cities around the globe in dynamic fashion" link="https://github.com/praveen3225/Weather_application" src="./weatherGUI.png">

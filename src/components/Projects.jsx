@@ -22,7 +22,7 @@ function Projects()
                         link="https://github.com/praveen3225/job_portal" src="./job_portal.png"></ProjectCard>
                     </Col>
                     <Col className="d-flex pt-5 justify-content-center">
-                        <ProjectCard title="Weather app" content="A simple weather application which is used to fetch and display current weather details of almost every cities around the globe in dynamic fashion" link="https://github.com/praveen3225/Weather_application" src="./weatherGUI.png">
+                        <ProjectCard title="Nexy Shopping App" content="This repository features my personal portfolio website, showcasing my skills, projects, and artistic pursuits. Built with React and styled using Bootstrap, it offers a modern, responsive design with engaging interactive elements." link="https://github.com/praveen3225/Nexzy" src="./shopping.png">
                         </ProjectCard>
                     </Col>
                     <Col className="d-flex pt-5 justify-content-center">

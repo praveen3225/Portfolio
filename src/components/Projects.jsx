@@ -26,7 +26,7 @@ function Projects()
                         </ProjectCard>
                     </Col>
                     <Col className="d-flex pt-5 justify-content-center">
-                        <ProjectCard title="Simon game" content="Heard of simon game before? If not do not forget to check it out here" link="https://github.com/praveen3225/simonGame_CourseProject" src="./simonGUI.png">
+                        <ProjectCard title="Postera - Social Media App" content="Postera is a social media platform fostering collaboration and creative expression among artists, similar to Instagram, allowing them to showcase their work and engage in business opportunities." link="https://github.com/praveen3225/Postera" src="./postera.png">
                         </ProjectCard>
                     </Col>
                 </Row>
